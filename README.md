@@ -1,2 +1,2 @@
-# Java-Concurrency
-Java Concurrency in Thinking in Java 4th edition
+# Java-examples
+Java examples in Thinking in Java 4th edition
